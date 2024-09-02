@@ -1,0 +1,89 @@
+# Inituial Template
+page = PAGE
+page.config.contentObjectExceptionHandler = 0
+
+page.includeCSS {
+  bootstrap = fileadmin/theme/Resources/Public/css/bootstrap.css
+  main = fileadmin/theme/Resources/Public/css/style.css
+}
+
+page.includeJSLibs {
+  bootstrap = fileadmin/theme/Resources/Public/js/bootstrap.min.js
+}
+
+page.includeJS {
+  file1 = fileadmin/theme/Resources/Public/js/file1.js
+}
+
+page.10 = FLUIDTEMPLATE
+page.10 {
+  layoutRootPaths  {
+    10 = fileadmin/theme/Resources/Private/Layouts/
+  }
+  partialRootPaths  {
+    10 = fileadmin/theme/Resources/Private/Partials/
+  }
+
+  file.cObject = CASE
+    file.cObject {
+        key.data = levelfield:-1, backend_layout_next_level, slide
+        key.override.field = backend_layout
+    
+        default = TEXT
+        default.value = fileadmin/theme/Resources/Private/Template/main.html
+    
+        pagets__2 = TEXT
+        pagets__2.value = fileadmin/theme/Resources/Private/Template/unterseiten.html
+    
+    }
+
+  #file = fileadmin/theme/Resources/Private/Template/main.html
+  #file = fileadmin/theme/Resources/Private/Template/kontakt.html
+    #file =fileadmin/images/bookshelf.jpg
+
+    # TODO: Add Dataprocessting for MENU
+}
+
+
+##########################
+### styles.content.get ###
+##########################
+lib.content = COA
+lib.content {
+  5 = LOAD_REGISTER
+
+  5.maxImageWidth = {$styles.content.textmedia.maxW}
+  5.contentWidth = {$styles.content.textmedia.maxW}
+
+  10 < styles.content.get
+  15 = RESTORE_REGISTER
+}
+
+########################################################################
+###                 Load Content bei Date Attribute                  ###
+### <f:cObject typoscriptObjectPath="lib.colContent" data="1"/> ###
+########################################################################
+lib.colContent = COA
+lib.colContent {
+    5 = LOAD_REGISTER
+    5  {
+        colPos.cObject = TEXT
+        colPos.cObject {
+            value.current = 1
+        }
+    }
+    20 < styles.content.get
+    20.select.where = colPos={register:colPos}
+    20.select.where.insertData = 1
+	stdWrap.required = 1
+    #stdWrap.replacement < lib.replacement
+}
+########################################################################
+###                 Load Content bei Date Attribute                  ###
+### <f:cObject typoscriptObjectPath="lib.colContentSlide" data="1"/> ###
+########################################################################
+lib.colContentSlide < lib.colContent
+lib.colContentSlide.20.slide = -1
+lib.colContentSlide.stdWrap.wrap >
+
+

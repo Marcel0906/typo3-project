@@ -1,0 +1,29 @@
+<?php
+return array (
+  'module-install-environment' => 
+  array (
+    'provider' => 'TYPO3\\CMS\\Core\\Imaging\\IconProvider\\SvgIconProvider',
+    'source' => 'EXT:install/Resources/Public/Icons/module-install-environment.svg',
+  ),
+  'module-install-maintenance' => 
+  array (
+    'provider' => 'TYPO3\\CMS\\Core\\Imaging\\IconProvider\\SvgIconProvider',
+    'source' => 'EXT:install/Resources/Public/Icons/module-install-maintenance.svg',
+  ),
+  'module-install-settings' => 
+  array (
+    'provider' => 'TYPO3\\CMS\\Core\\Imaging\\IconProvider\\SvgIconProvider',
+    'source' => 'EXT:install/Resources/Public/Icons/module-install-settings.svg',
+  ),
+  'module-install-upgrade' => 
+  array (
+    'provider' => 'TYPO3\\CMS\\Core\\Imaging\\IconProvider\\SvgIconProvider',
+    'source' => 'EXT:install/Resources/Public/Icons/module-install-upgrade.svg',
+  ),
+  'mimetypes-x-sys_redirect' => 
+  array (
+    'provider' => 'TYPO3\\CMS\\Core\\Imaging\\IconProvider\\SvgIconProvider',
+    'source' => 'EXT:redirects/Resources/Public/Icons/mimetypes-x-sys_redirect.svg',
+  ),
+);
+#

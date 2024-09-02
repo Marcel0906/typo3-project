@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" target-language="de" original="EXT:examples/Resources/Private/Language/PluginHaiku/de.locallang.xlf" datatype="plaintext" product-name="examples" date="2022-10-20T18:43:14+02:00">
+		<header/>
+		<body>
+			<trans-unit id="button.backToList" resname="button.backToList">
+				<source>Back to list</source>
+				<target>Zurück zur Übersicht</target>
+			</trans-unit>
+			<trans-unit id="season.autumn" resname="season.autumn">
+				<source>autumn</source>
+				<target>Herbst</target>
+			</trans-unit>
+			<trans-unit id="season.spring" resname="season.spring">
+				<source>spring</source>
+				<target>Frühling</target>
+			</trans-unit>
+			<trans-unit id="season.summer" resname="season.summer">
+				<source>summer</source>
+				<target>Sommer</target>
+			</trans-unit>
+			<trans-unit id="season.theFifthSeason" resname="season.theFifthSeason">
+				<source>Carnival</source>
+				<target>Fastnacht</target>
+			</trans-unit>
+			<trans-unit id="season.winter" resname="season.winter">
+				<source>winter</source>
+				<target>Winter</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

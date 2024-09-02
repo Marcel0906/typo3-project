@@ -1,0 +1,99 @@
+{
+    "name": "t3docs/examples",
+    "description": "This extension packages a number of code examples from the Core Documentation.",
+    "license": [
+        "GPL-2.0+"
+    ],
+    "type": "typo3-cms-extension",
+    "authors": [
+        {
+            "name": "Documentation Team",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "typo3/cms-backend": "^13.1 || dev-main",
+        "typo3/cms-core": "13.1 || dev-main",
+        "typo3/cms-extbase": "13.1 || dev-main",
+        "typo3/cms-fluid": "13.1 || dev-main",
+        "typo3/cms-fluid-styled-content": "13.1 || dev-main",
+        "typo3/cms-impexp": "13.1 || dev-main",
+        "typo3/cms-linkvalidator": "13.1 || dev-main",
+        "typo3/cms-reactions": "13.1 || dev-main"
+    },
+    "require-dev": {
+        "ergebnis/composer-normalize": "~2.42.0",
+        "friendsofphp/php-cs-fixer": "^3.52",
+        "phpstan/phpstan": "^1.10",
+        "rector/rector": "1.0.3"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "T3docs\\Examples\\": "Classes/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "ergebnis/composer-normalize": true,
+            "typo3/class-alias-loader": true,
+            "typo3/cms-composer-installers": true
+        },
+        "bin-dir": ".Build/bin",
+        "sort-packages": true,
+        "vendor-dir": ".Build/vendor"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "13.0.x-dev"
+        },
+        "typo3/cms": {
+            "extension-key": "examples",
+            "web-dir": ".Build/Web"
+        }
+    },
+    "scripts": {
+        "check": [
+            "@check:composer",
+            "@check:php"
+        ],
+        "check:composer": [
+            "@check:composer:config"
+        ],
+        "check:composer:config": "Build/Scripts/runTests.sh -n -s composerNormalize",
+        "check:php": [
+            "@check:php:lint",
+            "@check:php:cs",
+            "@check:php:rector"
+        ],
+        "check:php:cs": "Build/Scripts/runTests.sh -n -s cgl",
+        "check:php:lint": "Build/Scripts/runTests.sh -s lint",
+        "check:php:rector": "Build/Scripts/runTests.sh -n -s rector",
+        "fix": [
+            "@fix:composer",
+            "@fix:php"
+        ],
+        "fix:composer": [
+            "@fix:composer:config"
+        ],
+        "fix:composer:config": "Build/Scripts/runTests.sh -s composerNormalize",
+        "fix:php": [
+            "@fix:php:rector",
+            "@fix:php:cs"
+        ],
+        "fix:php:cs": "Build/Scripts/runTests.sh -s cgl",
+        "fix:php:rector": "Build/Scripts/runTests.sh -s rector",
+        "prepare-release": [
+            "rm -rf .Build",
+            "rm -rf .github",
+            "rm .gitattributes",
+            "rm .gitignore",
+            "rm .editorconfig",
+            "rm .php-cs-fixer.dist.php",
+            "rm -rf Build",
+            "rm rector.php"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: #578538;
+    text-align: center;
+}
+
+h3 {
+    color: #22ce90;
+    text-align: center;
+}
+
+body  {
+    background-color: #65fc7f;
+    padding-top: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+    /* add padding for content distance */
+}
+
+.container-fluid {
+   
+    font-size: 20px;
+    
+}
+
+/* .nav-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+} */
+
+.footer {
+    background-color: hotpink;
+    font-size: 20px;
+}
+
+.footer-links{
+    display: flex;
+    gap: 20px;
+    
+}
+
+li {
+    list-style-type: none;
+}
+
+.image {
+    /* styling for all pictures */
+    display: flex;
+    justify-content: center;
+    margin: 12px;
+}
+
+

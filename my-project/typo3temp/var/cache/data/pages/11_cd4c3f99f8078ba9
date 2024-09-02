@@ -1,0 +1,349 @@
+a:9:{s:7:"page_id";i:11;s:7:"content";s:7727:"<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<title>Lebenslauf</title>
+<meta name="generator" content="TYPO3 CMS">
+
+
+<link rel="stylesheet" href="fileadmin/theme/Resources/Public/css/bootstrap.css?1723191166" media="all">
+<link rel="stylesheet" href="fileadmin/theme/Resources/Public/css/style.css?1725261216" media="all">
+
+
+<script src="fileadmin/theme/Resources/Public/js/bootstrap.min.js?1723191195"></script>
+<script src="fileadmin/theme/Resources/Public/js/file1.js?1723044831"></script>
+
+
+<link rel="canonical" href="http://localhost/typo3-project/my-project/lebenslauf"/>
+</head>
+<body>
+
+    <!-- TODO: Add Header Navigation from Bootstrap with Dataprocessor of TYPO3-->
+     <!-- TODO: Navigation Bauen ohne Datenschutz / Impressum -->
+      <header>
+     <nav class="navbar fixed-top bg-info">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="/typo3-project/my-project">Home</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/typo3-project/my-project/ueber-mich">Über mich</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/typo3-project/my-project/projekte">Projekte</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="/typo3-project/my-project/lebenslauf">Lebenslauf</a>
+              </li>
+              <div class="nav-item">
+                <a class="nav-link" href="/typo3-project/my-project/datenschutz">Datenschutz</a>
+              </div>
+              <div class="nav-item">
+                <a class="nav-link" href="/typo3-project/my-project/impressum">Impressum</a>
+              </div>
+            </div>
+              <!-- <li class="nav-item">
+                <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+              </li> -->
+            </ul>
+          </div>
+        
+      </nav>
+    </header>
+    <div>
+        
+    <!-- Subpages-->
+     
+<div class="row">
+    <div class="col-md-4">
+        
+    </div>
+    <div class="col-md-8">
+        
+    
+
+            <div id="c22" class="frame frame-default frame-type-uploads frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        <ul class="ce-uploads">
+            
+                <li>
+                    
+                    
+                        
+                            
+                                    <a href="/typo3-project/my-project/fileadmin/user_upload/my_resume.pdf" >
+                                        <img src="/typo3-project/my-project/fileadmin/user_upload/my_resume.pdf" width="0" height="0" alt="" />
+                                    </a>
+                                
+                        
+                    
+                    <div>
+                        <a href="/typo3-project/my-project/fileadmin/user_upload/my_resume.pdf" >
+                            <span class="ce-uploads-fileName">my_resume.pdf</span>
+                        </a>
+                        
+                        
+                    </div>
+                </li>
+            
+                <li>
+                    
+                    
+                        
+                            
+                                    <a href="/typo3-project/my-project/fileadmin/user_upload/lebenslauf_bildvorschau.jpg" >
+                                        <img src="/typo3-project/my-project/fileadmin/_processed_/9/0/csm_lebenslauf_bildvorschau_e7558e099a.jpg" width="150" height="205" alt="" />
+                                    </a>
+                                
+                        
+                    
+                    <div>
+                        <a href="/typo3-project/my-project/fileadmin/user_upload/lebenslauf_bildvorschau.jpg" >
+                            <span class="ce-uploads-fileName">lebenslauf_bildvorschau.jpg</span>
+                        </a>
+                        
+                        
+                    </div>
+                </li>
+            
+        </ul>
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    </div>
+</div> 
+        
+
+    </div>
+    <footer>
+        <div class="row g-4">
+            <div class="col-12 col-md-6">
+                
+    
+
+            <div id="c4" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+        <header>
+            
+
+    
+            <h1 class="">
+                Kontakt
+            </h1>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-center ce-above">
+        
+            
+
+
+
+        
+
+        
+                <div class="ce-bodytext">
+                    
+                    <p class="text-center"><a href="https://web-kon.de/" target="_blank" rel="noreferrer">web-kon Internetagentur</a><br>Boschstraße 1<br>48703 Stadtlohn<br>+49(0) 2563.929 555</p>
+                </div>
+            
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+            </div>
+            <div class="col-12 col-md-6">
+                
+    
+
+            <div id="c5" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+        <header>
+            
+
+    
+            <h1 class="ce-headline-center">
+                Kontaktieren Sie mich gerne
+            </h1>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-center ce-above">
+        
+            
+
+
+
+        
+
+        
+                <div class="ce-bodytext">
+                    
+                    <p class="text-center">Marcel Kubetin<br>Flensburger Straße 35<br>33605 Bielefeld<br>M.Kubetin@gmx.de<br>015141277858<br>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+                </div>
+            
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+            </div>
+        </div>
+        <!-- <div class="footer-links"> -->
+        <!-- <div class="nav-item">
+            <a class="nav-link" href="/typo3-project/my-project/kontakt">Kontakt</a>
+        </div> -->
+      <!-- </div> -->
+        <!-- TODO: Footer Navigation einfügen -->
+         <!-- TODO: Footer nav bauen nur mit DATENSCHUTZ / IMpressum -->
+    </footer>
+
+
+
+
+</body>
+</html>";s:11:"contentType";s:24:"text/html; charset=utf-8";s:12:"INTincScript";a:0:{}s:16:"INTincScript_ext";a:0:{}s:14:"pageTitleCache";a:1:{s:48:"TYPO3\CMS\Core\PageTitle\RecordPageTitleProvider";s:10:"Lebenslauf";}s:7:"expires";i:1725348742;s:6:"tstamp";i:1725262342;s:9:"cacheTags";a:1:{i:0;s:9:"pageId_11";}}1725348742    pageId_118080      

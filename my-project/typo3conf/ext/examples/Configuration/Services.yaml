@@ -1,0 +1,42 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+
+  T3docs\Examples\:
+    resource: '../Classes/*'
+    exclude: '../Classes/Domain/Model/*'
+
+  T3docs\Examples\LinkValidator\LinkType\ExampleLinkType:
+    tags:
+      - name: linkvalidator.linktype
+
+  T3docs\Examples\Command\DoSomethingCommand:
+    tags:
+      - name: console.command
+        command: 'examples:dosomething'
+        description: 'A command that does nothing and always succeeds.'
+
+  T3docs\Examples\Command\CreateWizardCommand:
+    tags:
+      - name: console.command
+        command: 'examples:createwizard'
+        description: 'A command that creates a wizard. It is hidden in the command list. You cannot use it in the scheduler.'
+        hidden: true
+        schedulable: false
+
+  T3docs\Examples\Controller\Haiku\DetailController:
+    public: true
+
+  T3docs\Examples\Controller\Haiku\ListController:
+    public: true
+    
+  T3docs\Examples\LinkHandler\GitHubLinkHandler:
+    shared: false
+    public: true
+
+  T3docs\Examples\DataProcessing\CustomCategoryProcessor:
+    tags:
+      - name: 'data.processor'
+        identifier: 'custom-category'

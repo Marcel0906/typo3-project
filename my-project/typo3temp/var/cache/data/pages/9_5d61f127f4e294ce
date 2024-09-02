@@ -1,0 +1,1256 @@
+a:9:{s:7:"page_id";i:9;s:7:"content";s:22743:"<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<title>Über mich</title>
+<meta name="generator" content="TYPO3 CMS">
+
+
+<link rel="stylesheet" href="fileadmin/theme/Resources/Public/css/bootstrap.css?1723191166" media="all">
+<link rel="stylesheet" href="fileadmin/theme/Resources/Public/css/style.css?1725261216" media="all">
+
+
+<script src="fileadmin/theme/Resources/Public/js/bootstrap.min.js?1723191195"></script>
+<script src="fileadmin/theme/Resources/Public/js/file1.js?1723044831"></script>
+
+
+<link rel="canonical" href="http://localhost/typo3-project/my-project/ueber-mich"/>
+</head>
+<body>
+
+    <!-- TODO: Add Header Navigation from Bootstrap with Dataprocessor of TYPO3-->
+     <!-- TODO: Navigation Bauen ohne Datenschutz / Impressum -->
+      <header>
+     <nav class="navbar fixed-top bg-info">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="/typo3-project/my-project">Home</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/typo3-project/my-project/ueber-mich">Über mich</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/typo3-project/my-project/projekte">Projekte</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="/typo3-project/my-project/lebenslauf">Lebenslauf</a>
+              </li>
+              <div class="nav-item">
+                <a class="nav-link" href="/typo3-project/my-project/datenschutz">Datenschutz</a>
+              </div>
+              <div class="nav-item">
+                <a class="nav-link" href="/typo3-project/my-project/impressum">Impressum</a>
+              </div>
+            </div>
+              <!-- <li class="nav-item">
+                <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+              </li> -->
+            </ul>
+          </div>
+        
+      </nav>
+    </header>
+    <div>
+        
+    <!-- Subpages-->
+     
+<div class="row">
+    <div class="col-md-4">
+        
+    
+
+            <div id="c9" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+        <header>
+            
+
+    
+            <h1 class="ce-headline-center">
+                Über mich
+            </h1>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-center ce-above">
+        
+            
+
+
+
+        
+
+        
+                <div class="ce-bodytext">
+                    
+                    <p class="text-center">Die Informatik fasziniert mich seit Jahren. Privat habe ich mich u.a. gerne über Entwicklungen in der KI, Sicherheitstechnologien und den Mobilfunk- und Festnetzausbau in Deutschland informiert. Das hat sich zum Beispiel darin niedergeschlagen, dass ich Freunden und Familienmitgliedern bei der Zusammenstellung und dem Kauf von PCs, Laptops und Smartphones mit Rat und Tat zur Seite gestanden habe. Gerade in einer so schnell wachsenden Branche wie der IT ist es wichtig, auf dem Laufenden zu bleiben und sich über neue Technologien und Entwicklungen zu informieren. Daher ist es für mich eine Herausforderung, als Full-Stack Developer die Chance zu nutzen, in einem IT-Unternehmen zu arbeiten, das mit innovativen und neuen Technologien verschiedenste Projekte entwickelt.<br>&nbsp;</p>
+<p class="text-center">Zuverlässigkeit, autodidaktischen Lernen, lösungsorientiertes, selbstständiges Arbeiten zeichneten mein bisheriges Arbeitsverhalten aus. Die termingerechte Fertigstellung und Abgabe meiner Hausarbeiten im Studium sowie die Teamarbeit mit anderen DCI-Studierenden in meiner Weiterbildung beim DCI festigten meine Erfahrungen im agilen Projektmanagement und &nbsp;in Teamleitungsaufgaben mit Projektpräsentationen.</p>
+<p class="text-center"><br>Zu meinen persönlichen Interessen zählen Wandern in der Natur mit Freunden und Familie, Radfahren, Campen, Joggen und Schwimmen. Diese Interessen dienen meinem gesundheitlichen Ausgleich zur Bildschirmarbeit. Außerdem helfe ich in der Familie bei der Kinder- und Hundebetreuung.</p>
+                </div>
+            
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    </div>
+    <div class="col-md-8">
+        
+    
+
+            <div id="c19" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+        <header>
+            
+
+    
+            <h1 class="">
+                Skillset
+            </h1>
+        
+
+
+
+            
+
+    
+            <h2 class="">
+                Frontend Technologien
+            </h2>
+        
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-right ce-above">
+        
+            
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="8">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/8/8/csm_html5_logo_and_wordmark_3c626a2861.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/4/1/csm_css3_logo_and_wordmark_eb8a91faff.png" width="49" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/3/2/csm_node.js_logo_973e68d9bc.png" width="114" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/a/1/csm_react_e6f99537aa.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/d/d/csm_bootstrap_2_b2ee4226e5.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/1/4/csm_tailwindcss_12cb37cf8c.png" width="301" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/9/f/csm_vite_34ab61f5c4.png" width="167" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/0/3/csm_typescript_a80905bd04.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+    </div>
+
+
+
+        
+
+        
+                
+            
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    
+
+            <div id="c20" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+        <header>
+            
+
+
+
+            
+
+    
+            
+                
+
+    
+            <h3 class="">
+                Backend Technologien
+            </h3>
+        
+
+
+
+            
+        
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-center ce-above">
+        
+            
+
+    <div class="ce-gallery" data-ce-columns="2" data-ce-images="7">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/1/a/csm_express-js_176ef1cd2b.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/e/1/csm_mongodb_b4761e05d1.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/4/3/csm_node-js-libraries-mongoose-logo-nobg_4022eefb9a.png" width="106" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/9/7/csm_sql2_6b943cf635.png" width="150" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/9/b/csm_php_0e80586922.png" width="133" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/d/0/csm_rest_api_f79edfa522.png" width="102" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/b/6/csm_json_06e330aea2.png" width="225" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+        
+
+        
+                
+            
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    
+
+            <div id="c21" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+        <header>
+            
+
+
+
+            
+
+    
+            
+                
+
+    
+            <h3 class="">
+                Weitere Programme und Technologien
+            </h3>
+        
+
+
+
+            
+        
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-center ce-below">
+        
+
+        
+                
+            
+
+        
+            
+
+    <div class="ce-gallery" data-ce-columns="2" data-ce-images="8">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/6/9/csm_github_black_logo_icon_147128_87222b9fcb.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/5/1/csm_visual-studio-code-icon_379e9baf5a.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/f/a/csm_postman_c7d343cf7e.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/d/8/csm_trello-icon_86b148fe03.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/6/3/csm_typo3_1deca5f2a4.png" width="247" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/5/9/csm_wordpress_15c5cf7004.png" width="170" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            <a href="http://www.linkedin.com/in/marcel-kubetin-9b7a422a7">
+                
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/1/3/csm_linkedin_441b78b30f.png" width="70" height="70" loading="lazy" alt="" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/typo3-project/my-project/fileadmin/_processed_/2/d/csm_chatgpt_f753ac56c3.png" width="70" height="70" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+    </div>
+</div> 
+        
+
+    </div>
+    <footer>
+        <div class="row g-4">
+            <div class="col-12 col-md-6">
+                
+    
+
+            <div id="c4" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+        <header>
+            
+
+    
+            <h1 class="">
+                Kontakt
+            </h1>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-center ce-above">
+        
+            
+
+
+
+        
+
+        
+                <div class="ce-bodytext">
+                    
+                    <p class="text-center"><a href="https://web-kon.de/" target="_blank" rel="noreferrer">web-kon Internetagentur</a><br>Boschstraße 1<br>48703 Stadtlohn<br>+49(0) 2563.929 555</p>
+                </div>
+            
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+            </div>
+            <div class="col-12 col-md-6">
+                
+    
+
+            <div id="c5" class="frame frame-default frame-type-textmedia frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+        <header>
+            
+
+    
+            <h1 class="ce-headline-center">
+                Kontaktieren Sie mich gerne
+            </h1>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-center ce-above">
+        
+            
+
+
+
+        
+
+        
+                <div class="ce-bodytext">
+                    
+                    <p class="text-center">Marcel Kubetin<br>Flensburger Straße 35<br>33605 Bielefeld<br>M.Kubetin@gmx.de<br>015141277858<br>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+                </div>
+            
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+            </div>
+        </div>
+        <!-- <div class="footer-links"> -->
+        <!-- <div class="nav-item">
+            <a class="nav-link" href="/typo3-project/my-project/kontakt">Kontakt</a>
+        </div> -->
+      <!-- </div> -->
+        <!-- TODO: Footer Navigation einfügen -->
+         <!-- TODO: Footer nav bauen nur mit DATENSCHUTZ / IMpressum -->
+    </footer>
+
+
+
+
+</body>
+</html>";s:11:"contentType";s:24:"text/html; charset=utf-8";s:12:"INTincScript";a:0:{}s:16:"INTincScript_ext";a:0:{}s:14:"pageTitleCache";a:1:{s:48:"TYPO3\CMS\Core\PageTitle\RecordPageTitleProvider";s:10:"Über mich";}s:7:"expires";i:1725348763;s:6:"tstamp";i:1725262363;s:9:"cacheTags";a:1:{i:0;s:8:"pageId_9";}}1725348763    pageId_923095     
